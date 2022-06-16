@@ -10,6 +10,8 @@
 * [Закон](./legal.md)
 * [Деньги](./money.md)
 * [Транспорт](./transport.md)
+* [Медицина](./medicine.md)
+* [Мобильная связь](./mobile.md)
 * Магазины
 * Отдых
 * [Жильё](./accommodation.md)
