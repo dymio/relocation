@@ -107,3 +107,5 @@ tags
 [._]*.un~
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,vim,sublimetext,gitbook
+
+_non_public
