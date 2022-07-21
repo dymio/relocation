@@ -22,3 +22,17 @@ _authors: @dymio
 >
 > - http://www.pvs.ru/info/currency/acc-notification.html
 > - http://www.pvs.ru/info/currency/acc-abroad.html
+
+
+Полезные материалы
+------------------
+
+* Юрист Anna Belitskaya [belle_niuta в Телеграме](https://t.me/belle_niuta) предлагает консультацию по вопросам особенностей законов РФ для тех, кто за границей ([объявление](https://t.me/uslugimonte/4802) в Телеграм-канале Черногория🇲🇪|PROFI)
+
+
+TODO
+----
+
+* Статья «Штраф в 150% от стоимости проданной квартиры: ужасы валютных нарушений, и как их избежать» Павла Комаровского [на vc.ru](https://vc.ru/finance/463153-shtraf-v-150-ot-stoimosti-prodannoy-kvartiry-uzhasy-valyutnyh-narusheniy-i-kak-ih-izbezhat)
+
+* [«Инструкция по оплате российских налогов для новых эмигрантов»](https://meduza.io/feature/2022/07/15/kak-dolzhny-platit-rossiyskie-nalogi-te-kto-uehal-strany-i-kstati-dolzhny-li-voobsche) на «Медузе»
