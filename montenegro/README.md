@@ -12,9 +12,8 @@
 * [Транспорт](./transport.md)
 * [Медицина](./medicine.md)
 * [Мобильная связь](./mobile.md)
-* Магазины
-* Отдых
 * [Жильё](./accommodation.md)
+* [Каталог магазинов и услуг](./catalog.md)
 
 ## Дополнительные материалы
 
@@ -27,3 +26,4 @@
 - https://pobalkanim.ru
 - https://t.me/VillaEdelweissMontenegro
 - http://www.adria.travel/mostar-heart-herzegovina/
+- https://t.me/itbalkan
