@@ -17,13 +17,27 @@
 
 ## Дополнительные материалы
 
-- https://t.me/montenergo_it
-- https://t.me/montemamochki
-- https://t.me/obmendengi
-- https://t.me/nasnedogonyt
+- телега-чат [montenergo_it](https://t.me/montenergo_it)
+- телега-чат [montemamochki](https://t.me/montemamochki)
+- телега-чат [obmendengi](https://t.me/obmendengi)
+- телега-чат [nasnedogonyt](https://t.me/nasnedogonyt)
 - https://montelibero.org/
-- https://t.me/montegram
+- телега-чат [montegram](https://t.me/montegram)
 - https://pobalkanim.ru
-- https://t.me/VillaEdelweissMontenegro
+- телега-чат [VillaEdelweissMontenegro](https://t.me/VillaEdelweissMontenegro)
 - http://www.adria.travel/mostar-heart-herzegovina/
-- https://t.me/itbalkan
+- телега-чат [itbalkan](https://t.me/itbalkan)
+
+Телега-чаты сообщества [«Эмигранты 360°»](https://trip360.shop/chat):
+
+- основной чат: [forum_montenegro](https://t.me/forum_montenegro)
+- женский чат: [monte_woman](https://t.me/monte_woman)
+- чат родителей, дети: [chernogoriya_deti](https://t.me/chernogoriya_deti)
+- жильё: [chernogoria_arenda](https://t.me/chernogoria_arenda)
+- работа: [chernogoria_rabota](https://t.me/chernogoria_rabota)
+- барахолка: [montenegro_market](https://t.me/montenegro_market)
+- кафе и рестораны: [food_budva](https://t.me/food_budva)
+- Будва: [budva_expats](https://t.me/budva_expats)
+- Котор: [kotor_chat](https://t.me/kotor_chat)
+- Херцег-Нови: [hercegnovi_chat](https://t.me/hercegnovi_chat)
+- Подгорица: [podgorica_chat](https://t.me/podgorica_chat)
