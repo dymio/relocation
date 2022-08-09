@@ -70,4 +70,6 @@ _authors: @dymio, @omafka, Оксана Щ.
 
 - Обналичка крипто-валют в телеге [Hajde Motors](https://t.me/hajdemotors) и [Hajde Crypto Exchange](https://t.me/hajdexchange), есть офис в Будве
 
+- Вывод криптовалют и цифровых активов в наличность в Подгорице (и Белграде, и Нови-Саде) в телеграм-канале [QAZCHANGE](https://t.me/qazchange)
+
 [^1]: Новость об ограничении на максимальный баланс по счёту для россиян [на сайте Hipotekarna banka](https://www.hipotekarnabanka.com/en/news/important-notice-for-citizens-of-the-russian-federation-457)
