@@ -3,9 +3,9 @@
 
 [к Черногории](./README.md) | [к началу](/README.md)
 
-_authors: @dymio, Тимофей П.
+_authors: @dymio, Тимофей П., @ruscoder
 <br/>created: 21.07.2022
-<br/>updated: 8.08.2022_
+<br/>updated: 19.08.2022_
 
 ## Продукты
 
@@ -37,6 +37,12 @@ _authors: @dymio, Тимофей П.
 * [Fontana Gastronomy](https://goo.gl/maps/Y4ip1XS89DayMhrs7), модный ресторан, Будва
 
     @dymio (07.2022): «Вкусный кофе, что редкость для Черногории. На порядок дороже соседей.»
+
+## Мебель
+
+* [Lubenica Crna Gora](https://instagram.com/lubenica_crna_gora) — доставка из IKEA в Подгорице и Баре
+
+    @ruscoder: "У них наценка меньше и кресло 247 евро плюс 8 доставка."
 
 ## Коворкинги
 
@@ -100,6 +106,27 @@ _authors: @dymio, Тимофей П.
     Живёт рядом с Герцег-Нови.
     tg: [timeforcats](https://t.me/timeforcats)
 
+* Olesya Kulida
+
+    По рекомендации Марии timeforcats.
+    tg: [olesya_kulida_photo](https://t.me/olesya_kulida_photo),
+    ig: [olesya_kulida](https://www.instagram.com/olesya_kulida).
+
+* Alex Lenyashin
+
+    Из Будвы. По рекомендации Марии timeforcats.
+    tg: [alexlenspb](https://t.me/alexlenspb)
+
+* Maxim A.
+
+    Из Будвы. По рекомендации Марии timeforcats.
+    tg: [maximaksutin](https://t.me/maximaksutin)
+
+* Kirill Druzhkov
+
+    Из Будвы. По рекомендации Марии @timeforcats.
+    tg: [Quantum22](https://t.me/Quantum22)
+
 * Максим Аксютин
 
     Я профессионально фотографирую больше 10 лет, снимал в разных странах и вот сейчас с семьей перебрался жить в Черногорию.
@@ -118,23 +145,8 @@ _authors: @dymio, Тимофей П.
     tg: [crabobots](https://t.me/crabobots),
     ig: [crabobot](https://www.instagram.com/crabobot/)
 
-* Alex Lenyashin
-
-    Из Будвы. По рекомендации Марии timeforcats.
-    tg: [alexlenspb](https://t.me/alexlenspb)
-
-* Maxim A.
-
-    Из Будвы. По рекомендации Марии timeforcats.
-    tg: [maximaksutin](https://t.me/maximaksutin)
-
-* Kirill Druzhkov
-
-    Из Будвы. По рекомендации Марии @timeforcats.
-    tg: [Quantum22](https://t.me/Quantum22)
-
-
 ## TODO
 
 - https://sale-me.com/en/ Доска объявлений
 - https://oglasi.me Доска объявлений
+- [Montenegro_Dostavka in Tg](https://t.me/Montenegro_Dostavka) Доставка посылок В Будве за 1 €
