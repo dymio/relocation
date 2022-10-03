@@ -54,13 +54,12 @@ _authors: @dymio
 ### Посольство Италии
 
 Сайт: https://ambpodgorica.esteri.it/ambasciata_podgorica/it/informazioni_e_servizi/visti/
-Визовый отдел этого посольства принимает в следующие часы
-Открыто: вторник и четверг 09:00-13:00 (по предварительной записи).
+<br>Визовый отдел этого посольства принимает в следующие часы: вторник и четверг 09:00-13:00 (по предварительной записи).
 
 Заявки на получение въездной визы необходимо подавать по следующему адресу:
-               Булевар Джорджа Васингтона 26
-               81000 Подгорица
-               Тел. 020 234 661/2
+Булевар Джорджа Васингтона 26,
+81000 Подгорица,
+Тел. 020 234 661/2
 
 Для оформления въездной визы заявители, законно проживающие в Черногории, должны лично явиться в это Посольство по предварительной записи.
 Запись на прием осуществляется по электронной почте visti.podgorica@esteri.it
@@ -74,18 +73,21 @@ _authors: @dymio
 Адм.сбор: 35 евро. Цена на визу: 40 (дети), 80 (взрослые).
 
 На 03.10.2022 список документов для поездки в Италию на 10 дней для семьи с детьми (письмо из посольства):
-"Аt the moment short-term (single entry and a few days) visas are issued, the documents you must send to apply for a visa are the following:
-- Entry visa application form (https://e-applicationvisa.esteri.it/?L=ru-RU)
-- Recent passport-size photograph (делали вот здесь)
-- Valid travel document whose expiry date is three months higher than that of the visa requested
-- Residence permit in Montenegro for at least four months ago
-- Return ticket or proof that the applicant has his own means of transport
-- Proof that the applicant has sufficient means of subsistence as required by the Directive of the Ministry of the Interior of 1 March 2000 (bank statement in Montenegro in the last four months)
-- Supporting documentation relating to the social and professional status of the applicant (if you have a company budget, if you are an employee of a company document of the last four salaries authenticated by local authorities)
-- Health insurance covering a minimum of 30,000 euros for hospitalization and emergency repatriation costs, valid throughout the Schengen area (делали вот здесь )
-- Proof of accommodation (hotel, declaration of hospitality, declaration that the accommodation costs are to be paid by the inviter)
-- Certificate of family, marriage and the birth of the children. All certificates must be apostilled and translated (Sworn translator in the list of translators present in our Embassy where the document was issued) in the country that issued them (Hague Convention)
-When you have all the documentation ready, without sending it by email, you can ask for an appointment for the Visa. If the documentation is not correct, the visa will be denied in writing."
+
+> Аt the moment short-term (single entry and a few days) visas are issued, the documents you must send to apply for a visa are the following:
+>
+> - Entry visa application form (https://e-applicationvisa.esteri.it/?L=ru-RU)
+> - Recent passport-size photograph (делали вот здесь)
+> - Valid travel document whose expiry date is three months higher than that of the visa requested
+> - Residence permit in Montenegro for at least four months ago
+> - Return ticket or proof that the applicant has his own means of transport
+> - Proof that the applicant has sufficient means of subsistence as required by the Directive of the Ministry of the Interior of 1 March 2000 (bank statement in Montenegro in the last four months)
+> - Supporting documentation relating to the social and professional status of the applicant (if you have a company budget, if you are an employee of a company document of the last four salaries authenticated by local authorities)
+> - Health insurance covering a minimum of 30,000 euros for hospitalization and emergency repatriation costs, valid throughout the Schengen area (делали вот здесь )
+> - Proof of accommodation (hotel, declaration of hospitality, declaration that the accommodation costs are to be paid by the inviter)
+> - Certificate of family, marriage and the birth of the children. All certificates must be apostilled and translated (Sworn translator in the list of translators present in our Embassy where the document was issued) in the country that issued them (Hague Convention)
+>
+> When you have all the documentation ready, without sending it by email, you can ask for an appointment for the Visa. If the documentation is not correct, the visa will be denied in writing.
 
 ## Дополнительные материалы
 
