@@ -3,9 +3,9 @@
 
 [к Черногории](./README.md) | [к началу](/README.md)
 
-_authors: @dymio
+_authors: @dymio, @omafka
 <br/>created: 2.04.2022
-<br/>updated: 8.08.2022_
+<br/>updated: 6.10.2022_
 
 ## Турист
 
@@ -75,12 +75,12 @@ _authors: @dymio
 
 Для оформления въездной визы заявители, законно проживающие в Черногории, должны лично явиться в это Посольство по предварительной записи.
 Запись на прием осуществляется по электронной почте visti.podgorica@esteri.it
+
 В паспорте должно быть не менее 2 пустых страниц.
 Срок действия паспорта должен превышать 3 месяца от ожидаемой даты возвращения.
 Документы должны быть представлены в оригинале плюс ксерокопия.
 
-Сумма административных расходов по обработке заявления на получение визы должна быть оплачена во время подачи заявления в евро и исключительно наличными . 
-
+Сумма административных расходов по обработке заявления на получение визы должна быть оплачена во время подачи заявления в евро и исключительно наличными. 
 Полученная сумма в любом случае будет взыскана, так как она предназначена не для выдачи визы, а для административного регулирования практики. Эта сумма  не возвращается, независимо от конечного результата.
 Адм.сбор: 35 евро. Цена на визу: 40 (дети), 80 (взрослые).
 
@@ -88,15 +88,15 @@ _authors: @dymio
 
 > Аt the moment short-term (single entry and a few days) visas are issued, the documents you must send to apply for a visa are the following:
 >
-> - Entry visa application form (https://e-applicationvisa.esteri.it/?L=ru-RU)
-> - Recent passport-size photograph (делали вот здесь)
+> - Entry visa application form _\[заполняли через https://e-applicationvisa.esteri.it/?L=en-En — прим. @omafka\]_
+> - Recent passport-size photograph _\[делали вот здесь https://goo.gl/maps/UqvmkS9xA6XMYhcZ6 4 фото на одного человека - 5 евро — прим. @omafka\]_
 > - Valid travel document whose expiry date is three months higher than that of the visa requested
 > - Residence permit in Montenegro for at least four months ago
-> - Return ticket or proof that the applicant has his own means of transport
-> - Proof that the applicant has sufficient means of subsistence as required by the Directive of the Ministry of the Interior of 1 March 2000 (bank statement in Montenegro in the last four months)
-> - Supporting documentation relating to the social and professional status of the applicant (if you have a company budget, if you are an employee of a company document of the last four salaries authenticated by local authorities)
-> - Health insurance covering a minimum of 30,000 euros for hospitalization and emergency repatriation costs, valid throughout the Schengen area (делали вот здесь )
-> - Proof of accommodation (hotel, declaration of hospitality, declaration that the accommodation costs are to be paid by the inviter)
+> - Return ticket or proof that the applicant has his own means of transport _\[покупали вот здесь https://wizzair.com/#/ — прим. @omafka\]_
+> - Proof that the applicant has sufficient means of subsistence as required by the Directive of the Ministry of the Interior of 1 March 2000 (bank statement in Montenegro in the last four months _\[ стоит 5 евро в отделении Hipotekarna — прим. @omafka\]_)
+> - Supporting documentation relating to the social and professional status of the applicant (if you have a company budget, if you are an employee of a company document of the last four salaries authenticated by local authorities) _\[ делает Эльмира — прим. @omafka\]_
+> - Health insurance covering a minimum of 30,000 euros for hospitalization and emergency repatriation costs, valid throughout the Schengen area _\[делали вот здесь https://www.sava.co.me/me-me/insurance/travel/ на семью из 4 человек на 13 дней 30 евро — прим. @omafka\]_
+> - Proof of accommodation (hotel, declaration of hospitality, declaration that the accommodation costs are to be paid by the inviter) _\[ сделали бронирование на Booking.com с бесплатной отменой и без предоплаты — прим. @omafka\]_
 > - Certificate of family, marriage and the birth of the children. All certificates must be apostilled and translated (Sworn translator in the list of translators present in our Embassy where the document was issued) in the country that issued them (Hague Convention)
 >
 > When you have all the documentation ready, without sending it by email, you can ask for an appointment for the Visa. If the documentation is not correct, the visa will be denied in writing.
