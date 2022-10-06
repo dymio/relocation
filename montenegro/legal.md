@@ -3,7 +3,7 @@
 
 [к Черногории](./README.md) | [к началу](/README.md)
 
-_authors: @dymio
+_authors: @dymio, @omafka
 <br/>created: 2.04.2022
 <br/>updated: 6.10.2022_
 
@@ -89,7 +89,7 @@ _authors: @dymio
 > Аt the moment short-term (single entry and a few days) visas are issued, the documents you must send to apply for a visa are the following:
 >
 > - Entry visa application form (https://e-applicationvisa.esteri.it/?L=ru-RU)
-> - Recent passport-size photograph (делали вот здесь https://goo.gl/maps/UqvmkS9xA6XMYhcZ6 4 фото на одного человека - 5 евро)
+> - Recent passport-size photograph _\[делали вот здесь https://goo.gl/maps/UqvmkS9xA6XMYhcZ6 4 фото на одного человека - 5 евро — прим. @omafka\]_
 > - Valid travel document whose expiry date is three months higher than that of the visa requested
 > - Residence permit in Montenegro for at least four months ago
 > - Return ticket or proof that the applicant has his own means of transport (покупали вот здесь https://wizzair.com/#/)
