@@ -94,10 +94,10 @@ _authors: @dymio, @omafka
 > - Residence permit in Montenegro for at least four months ago
 > - Return ticket or proof that the applicant has his own means of transport _\[покупали вот здесь https://wizzair.com/#/ — прим. @omafka\]_
 > - Proof that the applicant has sufficient means of subsistence as required by the Directive of the Ministry of the Interior of 1 March 2000 (bank statement in Montenegro in the last four months _\[ стоит 5 евро в отделении Hipotekarna — прим. @omafka\]_)
-> - Supporting documentation relating to the social and professional status of the applicant (if you have a company budget, if you are an employee of a company document of the last four salaries authenticated by local authorities) _\[ делает Эльмира — прим. @omafka\]_
+> - Supporting documentation relating to the social and professional status of the applicant (if you have a company budget, if you are an employee of a company document of the last four salaries authenticated by local authorities) _\[ Нужно попробовать заказать через Эльмиру в местных органах учета(налоговая?) — прим. @omafka\]_
 > - Health insurance covering a minimum of 30,000 euros for hospitalization and emergency repatriation costs, valid throughout the Schengen area _\[делали вот здесь https://www.sava.co.me/me-me/insurance/travel/ на семью из 4 человек на 13 дней 30 евро — прим. @omafka\]_
 > - Proof of accommodation (hotel, declaration of hospitality, declaration that the accommodation costs are to be paid by the inviter) _\[ сделали бронирование на Booking.com с бесплатной отменой и без предоплаты — прим. @omafka\]_
-> - Certificate of family, marriage and the birth of the children. All certificates must be apostilled and translated (Sworn translator in the list of translators present in our Embassy where the document was issued) in the country that issued them (Hague Convention)
+> - Certificate of family, marriage and the birth of the children. All certificates must be apostilled and translated (Sworn translator in the list of translators present in our Embassy where the document was issued) in the country that issued them (Hague Convention).  If the certificates were made in Russia, everything must be done there, apostille and translation.
 >
 > When you have all the documentation ready, without sending it by email, you can ask for an appointment for the Visa. If the documentation is not correct, the visa will be denied in writing.
 
