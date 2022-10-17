@@ -101,6 +101,11 @@ _authors: @dymio, @omafka
 >
 > When you have all the documentation ready, without sending it by email, you can ask for an appointment for the Visa. If the documentation is not correct, the visa will be denied in writing.
 
+### Посольство Греции
+
+Сайт: https://www.mfa.gr/missionsabroad/me/visas.html?mission=pdg&mis=montenegro&lang=extra1
+
+
 ## Дополнительные материалы
 
 - Телега-чат [«Шенген в Черногории»](https://t.me/schengen_montenegro_chat)
