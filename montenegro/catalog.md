@@ -91,6 +91,9 @@ _authors: @dymio, Тимофей П., @ruscoder
 - [«Антикафе» Monteclouds в Будве](https://t.me/games_in_montenegro) — почасовая аренда комнат с настолками на русском
 - [Настолки в онлайн-магазине "Games"](https://www.games.co.me/drustvene-igre) — настолки на сербском
 - [Настолки в магазине "Mamut."](https://www.mamut.me/drustvene-igre) — магазин в Подгорице, в Delta-city
+- [D&D и прочие НРИ. Будва](https://t.me/Monte_Dragons) — группа любителей D&D и подобных игр в Будве
+- [Телеграм-группа любителей настольных игр в Будве](https://t.me/+BEjqRXn0jD0zNWJi)
+
 
 ## Туристические места
 

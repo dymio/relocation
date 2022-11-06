@@ -27,6 +27,9 @@
 - телега-чат [VillaEdelweissMontenegro](https://t.me/VillaEdelweissMontenegro)
 - http://www.adria.travel/mostar-heart-herzegovina/
 - телега-чат [itbalkan](https://t.me/itbalkan)
+- телега-чат [Кто Со Мной!? Черногория](https://t.me/Together_in_Montenegro) ([объявление](https://t.me/VillaEdelweissMontenegro/6081))
+- телега-чат [Домашние питомцы в Черногории](https://t.me/HomeAnimalsMonte)
+- телега-акк [Delivery MNE Instagram: privezi_mne](https://t.me/Delivery_MNE) ([объявление](https://t.me/AfishaMonte/3447))
 
 Телега-чаты сообщества [«Эмигранты 360°»](https://trip360.shop/chat):
 
