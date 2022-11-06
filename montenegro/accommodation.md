@@ -100,6 +100,7 @@ TODO бонус, так как появился опыт, возможно ст�
 - https://www.realitica.com
 - https://t.me/chernogoria_realty
 - https://t.me/the_best_monte
+- https://t.me/nase_more
 
 - бот [Черногория | Поиск недвижимости](https://t.me/MontenegroRealtyBot) в Телеге
 
