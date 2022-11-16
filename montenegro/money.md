@@ -5,7 +5,7 @@
 
 _authors: @dymio, @omafka, Оксана Щ.
 <br/>created: 2.04.2022
-<br/>updated: 8.08.2022_
+<br/>relevant on: 8.08.2022_
 
 В Черногории пользуются евро.
 

@@ -5,7 +5,7 @@
 
 _authors: @dymio
 <br/>created: 10.04.2022
-<br/>updated: 16.06.2022_
+<br/>relevant on: 16.06.2022_
 
 ## Банковские карты
 

@@ -5,7 +5,7 @@
 
 _authors: @dymio
 <br/>created: 10.04.2022
-<br/>updated: 16.06.2022_
+<br/>relevant on: 16.06.2022_
 
 > Выбирайте рейсы НЕроссийских авиакомпаний
 > Перед покупкой билетов проверьте их актуальность на сайте [flightradar24](https://www.flightradar24.com/) <sup>\[1\]</sup>

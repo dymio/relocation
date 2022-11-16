@@ -5,7 +5,7 @@
 
 _authors: @dymio, @omafka
 <br/>created: 2.04.2022
-<br/>updated: 6.10.2022_
+<br/>relevant on: 6.10.2022_
 
 ## Турист
 

@@ -5,7 +5,7 @@
 
 _authors: @dymio, Тимофей П., @ruscoder
 <br/>created: 21.07.2022
-<br/>updated: 2.11.2022_
+<br/>relevant on: 2.11.2022_
 
 ## Как и где искать товары и услуги?
 

@@ -5,7 +5,7 @@
 
 _authors: @dymio
 <br/>created: 12.05.2022
-<br/>updated: 21.07.2022_
+<br/>relevant on: 21.07.2022_
 
 ## Междугородные автобусы
 

@@ -5,7 +5,7 @@
 
 _authors: @dymio
 <br/>created: 16.11.2022
-<br/>updated: 16.11.2022_
+<br/>relevant on: 16.11.2022_
 
 ## Государственные школы и детские сады
 
