@@ -47,3 +47,4 @@
 - Подгорица: [podgorica_chat](https://t.me/podgorica_chat)
 - Черногория. Чат [montenegro_topchat](https://t.me/montenegro_topchat)
 - Подслушано Черногория (куча разнонаправленных чатов) [omontenegro](https://t.me/omontenegro/214)
+- группа для МАМОЧЕК в Черногории [yamama_blog_Montenegro](https://t.me/yamama_blog_Montenegro/)
